@@ -5,7 +5,9 @@
 -------------------------------------------------
 
 ![Image](https://github.com/user-attachments/assets/eb46233b-8923-43a9-863b-1fe785231c83)
-<h1 align="center">Xenia - Xbox 360 Emulator</h1>
+<h1 align="center">Plenia - Xbox 360 Emulator</h1>
+
+FOTO OFF FINO AL 9 GIUGNO 2026
 
 Plenia è un emulatore di Xbox per Laptop MSRP 600 €, fatto  in un bel po' di linguaggi di programmazione 
 
