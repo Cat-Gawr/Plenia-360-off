@@ -1,4 +1,4 @@
-<h1 align="center"> Yenia ~ 2025 
+<h1 align="center"> Plenia ~ 2025 
 <h6 align="center"> CAMBIO DEL NOME </h6>
 <h5 align="center"> Progetto completato in data 21/05/2025
 
@@ -7,7 +7,7 @@
 ![Image](https://github.com/user-attachments/assets/eb46233b-8923-43a9-863b-1fe785231c83)
 <h1 align="center">Xenia - Xbox 360 Emulator</h1>
 
-Xenia è un emulatore di Xbox per Laptop MSRP 600 €, fatto  in un bel po' di linguaggi di programmazione 
+Plenia è un emulatore di Xbox per Laptop MSRP 600 €, fatto  in un bel po' di linguaggi di programmazione 
 
 fatto con VsCode  ~  Insiders
 
@@ -32,7 +32,7 @@ Buildbot | Voto
 
 <h1 align="center"> Cos'è Xenia-360?( Aka EPO ) </h1>
 
-Xenia 360 / EPO:360 è un progetto open-source con ' licenza ' la ' ' Youit-non-license  ' 'di un emulatore di Xbox 360, con 15 giochi comprati, disponibili solo
+Plenia 360 / EPO:360 è un progetto open-source con ' licenza ' la ' ' Youit-non-license  ' 'di un emulatore di Xbox 360, con 15 giochi comprati, disponibili solo
 sui laptop con MSRP 600€ , il progetto verrà aggiornato fino alla versione finale ogni 3 - 4 giorni, si pensa che entro fine maggio lo finirò, questo emulatore NON accetta
 linux, macos . Ma solo Windows 
 
@@ -64,7 +64,7 @@ il progetto verrà messo in time out tra il 13 maggio e il 15 maggio , 18 maggio
 
 
 # iDE : 
-1 . Xenia verrà rilasciata su github e un update ogni 3 giorni 
+1 . Plenia verrà rilasciata su github e un update ogni 3 giorni 
 
 2 . IDE in cui, puoi modificare il programma ( o meno )   : 
 
